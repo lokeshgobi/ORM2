@@ -40,9 +40,8 @@ admin.site.register(Car,CarAdmin)
 
 ## OUTPUT
 
-![alt text](<../Screenshot 2025-11-18 142302.png>)
-![alt text](<../Screenshot 2025-11-18 143827.png>)
-
+ORM2/Screenshot 2025-11-18 142302.png 
+ORM2/Screenshot 2025-11-18 143827.png
 
 ## RESULT
 Thus the program for creating car inventory database database using ORM hass been executed successfully
